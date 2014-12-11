@@ -51,21 +51,20 @@ the gh-pages branches from each lesson repo in one gh-pages branch. This
 is the 'workshop repository', e.g. 2014-12-11_nescent
 - create an index.md file in the top level of the gh-pages branch with the specific
 information about the workshop
-- edit the TravisCI files to be appropriate for the given workshop
-
-Instructors will now have access to this repository
-
-- change index.md with information on the local workshop  
+Things that will be changed:  
   - dates
   - instructors
   - room location
   - accessibility 
   - any additional notes, i.e. bring your own lunch
 
-- changes to .ci script for TravisCI 
+- edit the TravisCI files to be appropriate for the given workshop
 
-The 'workshop repository' will then be available to the Lead Instructor and other
-instructors
+Instructors will now have access to this repository
 
 Instructors should 
-- fork the workshop 
+- fork the workshop repository
+- make any changes to the materials in their repository
+- either push back changes to the main workshop repository or submit pull requests
+(more information needed on how to do this)
+- once changes are made, check to see if TravisCI still passes
