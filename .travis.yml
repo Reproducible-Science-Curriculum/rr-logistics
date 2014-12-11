@@ -1,7 +1,7 @@
 language: c
 
 script: 
-    - Rscript -e source(".ci_tests.R", echo=TRUE)
+    - Rscript -e 'source(".ci_tests.R", echo=TRUE)'
 
 before_install:
     - mv .description DESCRIPTION
