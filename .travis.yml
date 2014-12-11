@@ -2,7 +2,6 @@ language: c
 
 script: 
     - Rscript -e "library(knitr); knit('report.Rmd')"
-    - pdflatex example
 
 before_install:
     - mv .description DESCRIPTION
