@@ -5,8 +5,8 @@ A prototype for data distribution, checked with continuous integration.
 
 ## Branches
 
-- `gh-pages` branch is used for instructor materials
-- `master` branch is used for student materials, and should always have data in a passable state.
+- `gh-pages` (this branch) is used for instructor materials
+- `master` branch is used for student materials, and should always have data in a passable state. Travis CI checks this branch
 
 ## Logistics
 
