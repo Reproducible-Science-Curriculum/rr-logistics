@@ -1,8 +1,5 @@
 # README
 
-[![Build Status](https://travis-ci.org/Reproducible-Science-Curriculum/rr-logistics.svg?branch=master)](https://travis-ci.org/Reproducible-Science-Curriculum/rr-logistics)
-[![Build status](https://ci.appveyor.com/api/projects/status/570yfu7cflc3st2j?svg=true)](https://ci.appveyor.com/project/richfitz/rr-logistics)
-
 This is a test repository for how lessons can be deployed. There is 
 material that instructors will need and materials that learners will 
 need for each workshop and they are in separate branches.
