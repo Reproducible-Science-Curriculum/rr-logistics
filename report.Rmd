@@ -22,4 +22,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Let's get the range of speeds
 ```{r, echo=FALSE}
 range(cars$speed)
-``
+```
