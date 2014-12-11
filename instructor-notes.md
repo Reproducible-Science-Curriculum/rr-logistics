@@ -1,3 +1,6 @@
+---
+title: Instructor notes
+---
 Instructor Notes
 ================
 
