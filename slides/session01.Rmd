@@ -1,0 +1,36 @@
+--- 
+title       : Introduction to Reproducible Research
+subtitle    : 
+date        : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : standalone    # {selfcontained, standalone, draft}
+knit        : slidify::knit2slides
+--- 
+
+## Welcome!
+
+* Bullet one
+* Bullet two
+
+*** =pnotes
+* This is where presenter notes go
+
+
+--- .segue .dark
+
+## Transition
+
+--- &twocol
+
+## Header
+
+*** {name: left}
+* Left column
+
+*** {name: right}
+* Right column
+
+---
