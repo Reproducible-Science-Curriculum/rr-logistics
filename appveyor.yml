@@ -12,7 +12,7 @@ build_script:
   - travis-tool.sh install_deps
 
 test_script:
-  - ./.ci_tests.sh
+  - .ci_tests.sh
 
 on_failure:
   - travis-tool.sh dump_logs
