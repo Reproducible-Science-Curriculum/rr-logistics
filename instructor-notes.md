@@ -1,5 +1,5 @@
 ---
-title: Instructor notes
+title: Instructor Notes
 ---
 Instructor Notes
 ================

@@ -1,14 +1,16 @@
 ---
-title: rr-logistics
+title: Lesson X
 ---
 
 rr-logistics
-========
+============
 
 A prototype for logistics of distributing and testing lesson scripts/data.
 
 ## Links:
 
-1. Download the lesson data [rr-logistics](https://github.com/Reproducible-Science-Curriculum/rr-logistics/archive/master.zip)
-2. [Instructor notes](instructor-notes)
-
+- [data](data/)
+- [exercises](exercises)
+- [instructor notes](instructor-notes)
+- [resources](resources/)
+- [slides](slides)
