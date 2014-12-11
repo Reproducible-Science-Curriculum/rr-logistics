@@ -1,1 +1,1 @@
-Depends: knitr
+Depends: knitr, testthat
