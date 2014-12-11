@@ -1,7 +1,7 @@
 language: c
 
 script: 
-    - Rscript -e "library(knitr); knit('report.Rmd')"
+    - ./.ci_tests.sh
 
 before_install:
     - mv .description DESCRIPTION
