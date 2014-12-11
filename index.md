@@ -1,3 +1,7 @@
+---
+title: rr-logistics
+---
+
 rr-logistics
 ========
 
@@ -23,3 +27,4 @@ A prototype for logistics of distributing and testing lesson scripts/data.
 ## Download Links:
 
 1. [rr-logistics](https://github.com/Reproducible-Science-Curriculum/rr-logistics/archive/master.zip)
+
